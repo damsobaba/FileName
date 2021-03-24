@@ -1,3 +1,5 @@
+// FilenameRangeTests.swift
+
 import XCTest
 @testable import FilenameRange
 
@@ -8,8 +10,4 @@ final class FilenameRangeTests: XCTestCase {
         // results.
         XCTAssertEqual(FilenameRange().text, "Hello, World!")
     }
-
-    static var allTests = [
-        ("testExample", testExample),
-    ]
 }
