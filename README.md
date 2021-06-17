@@ -71,6 +71,6 @@ Here is a JSON data structure you can use in your tests.
   "hiker.fun": [0,5],
   "hiker.t": [0,5],
   "hiker.plt": [0,5],
-  "hiker": [0,5],
+  "hiker": [0,5]
 };
 
